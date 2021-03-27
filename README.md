@@ -75,15 +75,9 @@ ColorUI是一个Css类的UI组件库！不是一个Js框架。相比于同类小
 下载项目通过微信开发者工具打开可直接进行真机调试
 
 ## 🙆<span id="关于作者"></span>关于作者
-       I’m a developer from Xi'an(China)  
-      🌱 I’m currently learning Java, Scala  
-      🔭 I’m currently working on Netty & IM Applications  
-      ⚡ Fun fact: I love Physics🚀,Music💽，Running🏃  
-      📫 How to reach me: Coderlianghuan@gmail.com  
-      💬 Ask me about JavaEE,Spring,Mybatis,Flume,Hbase,Hadoop,Spark  
-      👨 For the past five years, I have been using Java for development  
-      🌟 Github is amazing, I hope to create more useful things here  
-      🐱‍  Yes, that's right. It's me！  
+
+ I’m a developer from Xi'an(China)  
+     
 
 
 ## 🌟<span id="贡献者"></span>贡献者
@@ -111,9 +105,6 @@ XATU
 
 All memebers in team F5
 
-纪念曾经连续每天10小时以上时间，晚上做梦都在写代码的开发生活
-
-感谢F5成员的支持
 
 ## ©️<span id="版权信息"></span>版权信息
 
